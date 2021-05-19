@@ -1,4 +1,4 @@
-#Exercícios em Python - Curso em Vídeo
+# Exercícios em Python - Curso em Vídeo
 ***
 ![curso_em_video](cursoemvideo-logo.png)
 
