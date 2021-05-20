@@ -22,7 +22,7 @@ Se ficou interessado em conhecer mais sobre este maravilhoso veículo de conheci
 
 * **Mundo 2**
   
-  Apresenta as estruturas condicionais (com if, elif e else) e de repetição (com for e while). 
+  Apresenta as estruturas condicionais (if, elif e else) e de repetição (for e while). 
 
 
 * **Mundo 3**
