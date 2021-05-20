@@ -1,6 +1,8 @@
 # Exercícios em Python - Curso em Vídeo
 ***
 
+![log_cursoemvideo](image/cursoemvideo-logo.png)
+
 Curso em Vídeo é uma plataforma online que
 possui diversos cursos gratuitos que auxiliam, desde a estaca zero, 
 na evolução de seus conhecimentos em diversas temáticas. Dentre estas, Python.
