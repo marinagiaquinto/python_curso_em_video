@@ -11,10 +11,9 @@ dos conceitos através da realização de uma amplo número de exercícios.
 Se ficou interessado em conhecer mais sobre este maravilhoso veículo de conhecimento, acesse 
 [Curso em Vídeo](https://www.cursoemvideo.com/).
 
+***
 
-
-A formação completa em Python oferecida pela plataforma é dividida
-em 3 mundos, contendo eles:
+#### A formação completa em Python oferecida pela plataforma é dividida em 3 mundos, contendo eles:
 
 * **Mundo 1** 
   
